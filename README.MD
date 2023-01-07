@@ -1,6 +1,6 @@
 # Project Group  Act 1 - 
 
-GROUP ACT #1
+GROUP ACT1
 
 ## Description
 
