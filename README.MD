@@ -1,6 +1,6 @@
-# GROUP ACT#1
+# Project Title 
 
-Simple overview of use/purpose.
+GROUP ACT#1.
 
 ## Description
 
@@ -33,7 +33,7 @@ Any advise for common problems or issues.
 command to run if program contains helper info
 ```
 
-## Author
+## Authors
 
 Jerwyn Cubao
 
