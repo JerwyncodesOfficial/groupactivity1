@@ -33,9 +33,9 @@ Any advise for common problems or issues.
 command to run if program contains helper info
 ```
 
-## Authors
+## Author
 
-Contributors names and contact info
+Jerwyn Cubao
 
 ex. Dominique Pizzie 
 ex. [@DomPizzie](https://twitter.com/dompizzie)
