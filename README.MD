@@ -35,7 +35,7 @@ command to run if program contains helper info
 
 ## Authors
 
-Jerwyn Cubao
+Jerwyn Cubao and everyone
 
 ex. Dominique Pizzie 
 ex. [@DomPizzie](https://twitter.com/dompizzie)
