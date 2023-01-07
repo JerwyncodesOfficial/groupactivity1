@@ -1,4 +1,4 @@
-# Project Title 
+# GROUP ACT#1
 
 Simple overview of use/purpose.
 
